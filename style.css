@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: #613F75;
+    height: 100vh;
+    width: 100vw;
+}
+
+#countNum{
+    display: block;
+    text-align: center;
+    font-size: 8em;
+    margin-top: 4rem;
+    color: #E5C3D1;
+}
+
+#btnsContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: #E5C3D1;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.buttons:hover{
+    background-color: #c292a6;
+}
