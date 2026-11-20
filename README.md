@@ -2,6 +2,10 @@
 
 A beginner-friendly counter application built with HTML, CSS, and JavaScript.
 
+## **Live Demo**
+
+[Increase, Decrease & Reset Counter](https://increase-decrease-reset-counter.netlify.app/?utm_source=chatgpt.com)
+
 ## Features
 - Increase the counter
 - Decrease the counter
